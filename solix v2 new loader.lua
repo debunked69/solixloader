@@ -18,4 +18,6 @@ elseif game.CreatorId == 1848960 then -- Murder Mystery 2
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9c916252a9f79bbf5a108f97c531e807.lua"))()
 elseif game.CreatorId == 3959677 then -- Pet Simulator 99
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e95ef6f27596e636a7d706375c040de4.lua"))()
+elseif game.CreatorId == 3461453 then -- Rivals
+    game.Players.LocalPlayer:Kick("SOON ADDED")
 end
