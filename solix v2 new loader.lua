@@ -20,4 +20,6 @@ elseif game.CreatorId == 3959677 then -- Pet Simulator 99
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e95ef6f27596e636a7d706375c040de4.lua"))()
 elseif game.CreatorId == 3461453 then -- Rivals
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3bb7969a9ecb9e317b0a24681327c2e2.lua"))()
+elseif game.CreatorId == 17219742 then -- anime vanguards
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/25116432b45b1a5ea7811c264a731941.lua"))()
 end
