@@ -22,4 +22,6 @@ elseif game.CreatorId == 3461453 then -- Rivals
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3bb7969a9ecb9e317b0a24681327c2e2.lua"))()
 elseif game.CreatorId == 17219742 then -- anime vanguards
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/25116432b45b1a5ea7811c264a731941.lua"))()
+elseif game.CreatorId == 3059674 then -- Jailbreak
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/21ad7f491e4658e9dc9529a60c887c6e.lua"))()
 end
