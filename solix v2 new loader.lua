@@ -6,6 +6,8 @@ if game.CreatorId == 4372130 then --Blox fruits
     else
         loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/f1d09e6c5ebfe2ed922a61c4bfba05d3.lua"))()
     end
+elseif game.CreatorId == 11867394 then -- Dead Rails
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/98f5c64a0a9ecca29517078597bbcbdb.lua"))()
 elseif game.CreatorId == 4294803 then -- Demonfall 
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9b64d07193c7c2aef970d57aeb286e70.lua"))()
 elseif game.CreatorId == 1226491 then -- Shindo Life
