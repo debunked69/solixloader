@@ -30,4 +30,6 @@ elseif game.CreatorId == 17219742 then -- anime vanguards
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/25116432b45b1a5ea7811c264a731941.lua"))()
 elseif game.CreatorId == 3059674 then -- Jailbreak
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/21ad7f491e4658e9dc9529a60c887c6e.lua"))()
+elseif game.CreatorId == 34644452 then -- Arise Crossover
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c8fdf9bb25a6a7071731b72a90e3c69.lua"))()
 end
