@@ -1,11 +1,7 @@
 repeat wait() until game:IsLoaded()
 
 if game.CreatorId == 4372130 then --Blox fruits 
-    if hookmetamethod and require then
-        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e2718ddebf562c5c4080dfce26b09398.lua"))()
-    else
-        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/f1d09e6c5ebfe2ed922a61c4bfba05d3.lua"))()
-    end
+   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e2718ddebf562c5c4080dfce26b09398.lua"))()
 elseif game.CreatorId == 11867394 then -- Dead Rails
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/98f5c64a0a9ecca29517078597bbcbdb.lua"))()
 elseif game.CreatorId == 4294803 then -- Demonfall 
