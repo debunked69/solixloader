@@ -362,7 +362,7 @@ local function main()
         else
          
             queue_on_teleport([[
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/keysystest/refs/heads/main/keyssys.lua"))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))()
             ]])
             
             createNotification("Info", "Key saved successfully. Ready for teleport.", 3, Color3.fromRGB(85, 255, 127), notifGui)
@@ -878,7 +878,7 @@ CheckButton.MouseButton1Click:Connect(function()
                 queue_on_teleport([[
                    
                   
-                    loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/keysystest/refs/heads/main/keyssys.lua"))()
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))()
                 ]])
                 
                 createNotification("Info", "Key saved successfully. Ready for teleport.", 3, Color3.fromRGB(85, 255, 127), ScreenGui)
