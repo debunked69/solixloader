@@ -704,7 +704,7 @@ LinkvertiseCorner.Parent = LinkvertiseButton
 
 local workinkButton = Instance.new("TextButton")
 workinkButton.Name = "Button"
-Button.FontFace = Font.new("rbxassetid://12187365364")
+workinkButton.FontFace = Font.new("rbxassetid://12187365364")
 workinkButton.Text = "Get Key (workink)"
 workinkButton.TextColor3 = Color3.fromRGB(240, 240, 240)
 workinkButton.TextSize = 12
